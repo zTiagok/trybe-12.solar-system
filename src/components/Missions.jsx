@@ -18,8 +18,8 @@ class Missions extends React.Component {
 
     // DOM
     return (
-      <div data-testid="missions">
-        <Title headline="Missões" />
+      <div data-testid="missions" id="missions">
+        <Title headline="Missões" id="missions-title" />
         { missionInfo }
       </div>
     );
