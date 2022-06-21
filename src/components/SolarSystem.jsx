@@ -16,8 +16,8 @@ class SolarSystem extends React.Component {
 
     // DOM
     return (
-      <div data-testid="solar-system">
-        <Title headline="Planetas" />
+      <div data-testid="solar-system" id="solar-system">
+        <Title headline="Planetas" id="solar-system-title" />
         { filteredPlanets }
       </div>
     );
