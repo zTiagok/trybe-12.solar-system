@@ -16,7 +16,13 @@ body {
 header {
   margin-top: 10px;
   font-size: x-large;
-  text-shadow: 0px 1px 3px white;
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  background-color: rgb(43, 43, 43);
+  color: rgb(255, 255, 255);
+  text-shadow: 0px 0px 5px white;
+  top: -10px;
 }
 
 #solar-system {
@@ -31,7 +37,7 @@ header {
 #solar-system-title {
   width: 100%;
   font-size: 35px;
-  margin-top: 20px;
+  margin-top: 100px;
   text-shadow: 0px 0px 3px gray;
   margin-bottom: 60px;
 }
@@ -63,7 +69,7 @@ header {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  width: 1400px;
+  width: 75%;
   margin: auto;
   margin-bottom: 225px;
 }
@@ -101,4 +107,21 @@ header {
   transition-property: color, background-color, font-weight, border;
   transition-delay: 0s;
   transition-duration: .5s;
+}
+
+#footer {
+  background-color: rgb(43, 43, 43);
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  position: fixed;
+  width: 100%;
+  text-justify: distribute;
+  top: 97.5%;
+  height: 1000px;
+}
+
+#eu {
+  color: rgb(255, 255, 255);
+  text-shadow: 0px 1px 5px rgba(255, 254, 254, 0.479);
 }
