@@ -1,9 +1,9 @@
 <div align="center">
   <h3>
-    Check out this project <a href="-"> website</a>! 
+    I'm working in this project <a href="-"> website</a>! 
   <h3>
   <h2>
-    -
+    Solar System
     <br><br>
   </h2>
 
@@ -38,28 +38,27 @@
   </h3>
   <div align="left">
   <br>
-  
-- [X] 1. 
-- [X] 2. 
-- [X] 3. 
-- [X] 4. 
-- [X] 5. 
-- [X] 6. 
-- [X] 7. 
-- [X] 8.
-- [X] 9. 
-- [X] 10. 
-- [X] 11. 
-- [X] 12. 
+- [X] 1. Create a component called `Header`.
+- [X] 2. Create a component called `SolarSystem`.
+- [X] 3. Create a component called `Title`.
+- [X] 4. Render the `Title` component into the `SolarSystem` component.
+- [X] 5. Create a component called `PlanetCard`.
+- [X] 6. Render a list with the planets in the Solar System.
+- [X] 7. Create a component called `Missions`.
+- [X] 8. Render the `Title` component into the `Missions` component.
+- [X] 9. Create a component called `MissionCard`.
+- [X] 10. Render a list of space missions.
   </div>
   <br>
   <hr>
   <h3>
-    📄 Pages and Components 📄
+   📄 Features 📄
   </h3>
   <br>
-  <span> - </span>
-  <br>
+  <span> ◐ Look at the planets of the Solar System. ◑ </span>
+  <br><br>
+  <span> ◐ Visualize space missions made in the past years. ◑ </span>
+  <br><br>
   <hr>
   <h3>
     📦 Frameworks and Libraries 📦
@@ -72,8 +71,12 @@
     </thead>
     <tbody>
       <tr>
-        <td> - </td>
-        <td> - </td>
+        <td> ReactJS </td>
+        <td> 17.0.2 </td>
+      </tr>
+      <tr>
+        <td> React Router DOM </td>
+        <td> 17.0.2 </td>
       </tr>
     </tbody>
   </table>
