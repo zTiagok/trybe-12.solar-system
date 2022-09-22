@@ -38,6 +38,7 @@
   </h3>
   <div align="left">
   <br>
+    
 - [X] 1. Create a component called `Header`.
 - [X] 2. Create a component called `SolarSystem`.
 - [X] 3. Create a component called `Title`.
