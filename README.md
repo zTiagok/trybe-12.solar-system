@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    I'm working in this project <a href="-"> website</a>! 
+    I'm working on this project <a href="-"> website</a>! 
   <h3>
   <h2>
     Solar System
