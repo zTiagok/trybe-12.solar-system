@@ -28,9 +28,8 @@
     ℹ️ Information ℹ️
   </h3>
   <br>
-  <span> - </span> 
-  <br><br>
-  <span> - </span>
+  <span> Using React and React Router DOM, the project lists some space missions and some planets in the solar system by doing some basic props communication between the components. </span> 
+  <br>
   <br>
   <hr>
   <h3>
